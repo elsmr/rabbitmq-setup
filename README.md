@@ -61,3 +61,7 @@ docker exec -it rabbitmq rabbitmq-plugins list
 You should see the JSON payload you just published.
 
 ## Linking with n8n
+
+<img width="543" height="568" alt="image" src="https://github.com/user-attachments/assets/40a00775-5650-45cc-8720-dcba255f9796" />
+
+<img width="977" height="772" alt="image" src="https://github.com/user-attachments/assets/5b975675-e58f-490c-885b-566ed6b772db" />
